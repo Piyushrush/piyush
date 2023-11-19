@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+   
+  }
+
+  header {
+    background-color: rgb(122, 119, 212);
+    color: #000000;
+    padding: 10px;
+    text-align: left;
+    font-style: italic;
+  }
+
+  nav {
+    background-color: #e1d0d0;
+    color: #b86c6c;
+    padding: 10px;
+    text-align: left;
+  }
+
+  section {
+    
+    padding: 100px;
+    text-align: center;
+   
+  }
+
+  article {
+    margin-bottom: 10px;
+  }
+
+  footer {
+    background-color: #333;
+    color: #fff;
+    padding: 100px;
+    text-align: center;
+  }
+button{
+    background-color: pink;
+    color: aquamarine;
+}
+div {
+    zoom: 20%;
+}
+p {
+    font-family: 'Brush Script MT';
+}
